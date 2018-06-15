@@ -1,6 +1,4 @@
-# Take Home Test:
-
-Please build a TCP server does the following:
+# TCP server
 
 ## Minimum requirement:
 - TCP server takes in any request text per line and send a query to an external API, until client send 'quit' or timed out.
