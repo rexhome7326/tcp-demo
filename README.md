@@ -12,7 +12,6 @@
 ## Install module
 ```bash
 $ npm install
-$ 
 ```
 
 ## Run server
