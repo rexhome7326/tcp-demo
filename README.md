@@ -16,9 +16,7 @@ $ npm install
 
 ## Run server
 ```bash
-$ npm run start-mock
-$ npm run start-tcp
-$ npm run start-web
+$ npm start
 ```
 
 ## Stop all server
