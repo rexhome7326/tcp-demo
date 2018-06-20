@@ -9,6 +9,9 @@
 - Consider the external API could be unreachable or unavailable.
 - Mount a HTTP endpoint on your server and display some statistics: current connection count, current request rate, processed request count, remaing jobs...etc
 
+## Server host
+http://localhost:4000
+
 ## Install module
 ```bash
 $ npm install
